@@ -3,4 +3,7 @@ Customer Churn is one of the most important and challenging problems for busines
 
 Our first customer data set is from a credit card company, where we are able review customer attributes such as gender, age, tenure, balance, number of products they are subscribed to, their estimated salary and if they stopped the subscription or not.
 
+LINK: 
+(https://public.tableau.com/app/profile/karunya96/viz/CustomerChurnAnalysis_16664645232030/Dashboard1?publish=yes)
+
 
